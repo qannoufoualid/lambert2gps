@@ -1,11 +1,17 @@
 {
   "name": "lambert2gps",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "lambert2gps is an utility that allows you to convert from lambert systems to the GPS one",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "oualidqannouf\u001b @@gmail.com",
+  "keywords": [
+    "lambert",
+    "gps",
+    "coordinate",
+    "javascript"
+  ],
   "license": "ISC"
 }
