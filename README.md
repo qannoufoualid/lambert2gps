@@ -6,7 +6,7 @@ The lambert system variation supported are:
 * Lambert 93
 
 ## Installation
-npm i lambert2gps
+`npm i lambert2gps`
 
 ### How to use it
 use `lambertI (x, y)` for Lambert I. Same for Lambert II to IV.  
