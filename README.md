@@ -1,2 +1,14 @@
 # lambert2gps
-This library allows you to convert from lambert2 coordination system to the GPS one
+This javascript library allows you to convert from lambert coordination system to the GPS one.
+The lambert system variation supported are:
+* Lambert I to IV
+* Lambert II Extended
+* Lambert 93
+
+## Installation
+npm i lambert2gps
+
+### How to use it
+use `lambertI (x, y)` for Lambert I. Same for Lambert II to IV.  
+use `lambertIIExtended(x, y)` for Lambert II Extended.  
+use `lambertIIExtended(x, y)` for Lambert 93.  
