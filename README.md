@@ -11,4 +11,4 @@ The lambert system variations supported are:
 ### How to use it
 use `lambertI (x, y)` for Lambert I. Same for Lambert II to IV.  
 use `lambertIIExtended(x, y)` for Lambert II Extended.  
-use `lambertIIExtended(x, y)` for Lambert 93.  
+use `Lambert93(x, y)` for Lambert 93.  
